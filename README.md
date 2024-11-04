@@ -1,1 +1,1 @@
-# bingo2
+# 使用言語 :javascript
